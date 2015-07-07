@@ -6,16 +6,13 @@ Lucy
 
 ###What is your favorite color?
 
-Your answer goes here
-
+Crimson
 ###Cats or Dogs?
 
-Your answer goes here
-
+Dogs
 ###What would constitute a “perfect” day for you?
 
-Your answer goes here
-
+Hiking to a mountain lake on a sunny day with my beloved and best friends.
 ###Given the choice of anyone in the world, whom would you want as a dinner guest?
 
-Your answer goes here
+Neil deGrasse Tyson
